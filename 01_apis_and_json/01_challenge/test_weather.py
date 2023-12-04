@@ -1,5 +1,5 @@
 import unittest
-from weather_solution import search_city, weather_forecast
+from weather import search_city, weather_forecast
 
 class TestWeatherCLI(unittest.TestCase):
 
