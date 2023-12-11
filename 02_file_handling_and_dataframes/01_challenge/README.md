@@ -1,6 +1,6 @@
 ### **Challenge 1: Python File Handling Adventure**
 
-**Objective:** Create a collection of short scripts to manage a library of text files. They can be found in at `02_file_handling_and_dataframes/01_challenge/data/text_files`
+**Objective:** Create a collection of short scripts to manage a library of text files. They can be found at `02_file_handling_and_dataframes/01_challenge/data/text_files`
 
 **Tasks:**
 
